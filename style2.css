@@ -25,14 +25,14 @@ body {
 .float-box2 {
     float: left;
     width: 75%;
-    height: 25%;
+    height: 20%;
     background-color: var(--section-2-bg-color)
 }
 
 .float-box3 {
     float: right;
     width: 25%;
-    height: 25%;
+    height: 20%;
     background-color: var(--section-3-bg-color)
 }
 
